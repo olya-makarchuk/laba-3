@@ -1,0 +1,15 @@
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.csproj.AssemblyReference.cache
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.AssemblyInfoInputs.cache
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.AssemblyInfo.cs
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.csproj.CoreCompileInputs.cache
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\bin\Debug\net6.0\laba_3_1.exe
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\bin\Debug\net6.0\laba_3_1.deps.json
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\bin\Debug\net6.0\laba_3_1.runtimeconfig.json
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\bin\Debug\net6.0\laba_3_1.dll
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\bin\Debug\net6.0\laba_3_1.pdb
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.dll
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\refint\laba_3_1.dll
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.pdb
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\laba_3_1.genruntimeconfig.cache
+C:\Users\olama\source\repos\laba_3_1\laba_3_1\obj\Debug\net6.0\ref\laba_3_1.dll
